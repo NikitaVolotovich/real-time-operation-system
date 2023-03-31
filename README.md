@@ -7,7 +7,7 @@ but on macOS Monterey it works normal.
 ![SCHEDULE ON SPORADIC](https://github.com/NikitaVolotovich/real-time-operation-system/blob/main/2022-06-17%2010.19.08.jpg "")
 - Sporadic manager has 2 frames for a jobs.
 - The main rule is: first job in the period should be always scheduled. Other's are cancelled.
-![SPORADIC QUEUE VISUALISATION]([2022-06-17 10.32.18.jpg?raw=true](https://github.com/NikitaVolotovich/real-time-operation-system/blob/main/2022-06-17%2010.32.18.jpg) "")
+![SPORADIC QUEUE VISUALISATION](https://github.com/NikitaVolotovich/real-time-operation-system/blob/main/2022-06-17%2010.32.18.jpg "")
 
 
 ### Project logging
