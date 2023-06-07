@@ -54,3 +54,4 @@ scheduler.c
 so that you are always guaranteed to run the jobs in time even if two release
 at once and both are accepted. If you manage to do that, you will fulfill the
 4999ms and 5001ms sporadic event requirement.
+
