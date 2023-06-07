@@ -3,6 +3,7 @@
 Problem: sometimes on Windows 11 tasks are overrun (scheduler.c line:58), 
 but on macOS Monterey it works normal. 
 
+
 ### Schedule on sporadic event
 ![SCHEDULE ON SPORADIC](https://github.com/NikitaVolotovich/real-time-operation-system/blob/main/2022-06-17%2010.19.08.jpg "")
 - Sporadic manager has 2 frames for a jobs.
